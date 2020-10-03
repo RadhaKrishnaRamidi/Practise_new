@@ -1,6 +1,0 @@
-routinginfo:
-  mapProp:
-    MemberDrugHistory: https://api-core.optum.com/optumrx-ms/members/drugHistory/v1.0
-    MemberSearchV2: https://api-core.optum.com/optumrx-ms/members/membersearchv2
-    MemberSearchFallbackService: https://stg-api-core.optum.com/optumrx-ms/members/membersearchv2
-    MemberFinder: http://shared-ecsws-web.uhc.com/WebServiceECS/services/MemberFinder/getMemberInstance
